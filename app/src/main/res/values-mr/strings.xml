@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SmartKrishi</string>
+    <string name="Farmer">शेतकरी</string>
+    <string name="address">पत्ता</string>
+    <string name="confirm_password">पासवर्डची पुष्टी करा</string>
+    <string name="contractor">ठेकेदार</string>
+    <string name="invalid_address">पत्ता रिक्त आहे</string>
+    <string name="dob">जन्म तारीख</string>
+    <string name="invalid_confirm_password">पासवर्ड जुळत नाही</string>
+    <string name="invalid_dateofbirth">आपली जन्मतारीख अवैध आहे</string>
+    <string name="invalid_name">कृपया एक वैध नाव प्रविष्ट करा</string>
+    <string name="name">नाव</string>
+    <string name="invalid_password">कृपया एक वैध संकेतशब्द प्रविष्ट करा</string>
+    <string name="password">पासवर्ड</string>
+    <string name="radiogroup">रेडिओ बटण</string>
+    <string name="submit">सबमिट करा</string>
+    <string name="textid">"स्वागत आहे "</string>
+    <string name="Welcome">\"स्वागत आहे \"</string>
+</resources>

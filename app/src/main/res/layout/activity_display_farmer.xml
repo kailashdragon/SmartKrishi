@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/activity_display_farmer"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.kailashpatel.smartkrishi.DisplayFarmer">
+
+<GridLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/ivProfile"
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:layout_row="1"
+            android:layout_column="5"
+            app:srcCompat="@drawable/Farmer" />
+
+        <TextView
+            android:id="@+id/nameText"
+            android:layout_column="1"
+            android:layout_gravity="left"
+            android:layout_row="10"
+            android:text="@string/name" />
+
+        <TextView
+            android:id="@+id/nameValue"
+            android:layout_column="2"
+            android:layout_gravity="left"
+            android:layout_row="10"
+            android:text=""
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <TextView
+            android:id="@+id/dobText"
+            android:layout_column="1"
+            android:layout_gravity="left"
+            android:layout_row="12"
+            android:text="@string/dob" />
+
+        <TextView
+            android:id="@+id/dobValue"
+            android:layout_column="2"
+            android:layout_gravity="left"
+            android:layout_row="12"
+            android:text=""
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <TextView
+            android:id="@+id/rgText"
+            android:layout_column="1"
+            android:layout_gravity="left"
+            android:layout_row="14"
+            android:text="@string/radiogroup" />
+
+        <TextView
+            android:id="@+id/rgValue"
+            android:layout_column="2"
+            android:layout_gravity="left"
+            android:layout_row="14"
+            android:text=""
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <TextView
+            android:id="@+id/addressText"
+            android:layout_column="1"
+            android:layout_gravity="left"
+            android:layout_row="16"
+            android:text="@string/radiogroup" />
+
+        <TextView
+            android:id="@+id/addressValue"
+            android:layout_column="2"
+            android:layout_gravity="left"
+            android:layout_row="16"
+            android:text=""
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <Space
+            android:layout_width="21dp"
+            android:layout_height="1dp"
+            android:layout_column="0"
+            android:layout_gravity="fill_horizontal"
+            android:layout_row="9" />
+
+        <Space
+            android:layout_width="1dp"
+            android:layout_height="21dp"
+            android:layout_column="0"
+            android:layout_gravity="fill_horizontal"
+            android:layout_row="9" />
+
+        <Space
+            android:layout_width="64dp"
+            android:layout_height="1dp"
+            android:layout_column="1"
+            android:layout_gravity="fill_horizontal"
+            android:layout_row="11" />
+
+        <Space
+            android:layout_width="1dp"
+            android:layout_height="10dp"
+            android:layout_column="0"
+            android:layout_gravity="fill_horizontal"
+            android:layout_row="11" />
+
+        <Space
+            android:layout_width="1dp"
+            android:layout_height="10dp"
+            android:layout_column="0"
+            android:layout_gravity="fill_horizontal"
+            android:layout_row="13" />
+
+        <Space
+            android:layout_width="1dp"
+            android:layout_height="10dp"
+            android:layout_column="0"
+            android:layout_gravity="fill_horizontal"
+            android:layout_row="15" />
+
+</GridLayout>
+
+</RelativeLayout>

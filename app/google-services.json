@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "403670182908",
+    "firebase_url": "https://smart-kri.firebaseio.com",
+    "project_id": "smart-kri",
+    "storage_bucket": "smart-kri.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403670182908:android:45e56907dedfabbc",
+        "android_client_info": {
+          "package_name": "com.example.kailashpatel.smartkrishi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403670182908-spv4irffcf7p50nb77nd3oe0d0a97md6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kailashpatel.smartkrishi",
+            "certificate_hash": "2178ae193403d5181ff9eee5f245f67d951b4ad9"
+          }
+        },
+        {
+          "client_id": "403670182908-mk68mep278m0akgbrnfu5ik1jeb9939c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIHQlwbxURuvZGjfBoqsmDpCwRVYAhcCE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403670182908-mk68mep278m0akgbrnfu5ik1jeb9939c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

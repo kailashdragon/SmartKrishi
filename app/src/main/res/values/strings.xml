@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">SmartKrishi</string>
+
+
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+    <string name="dob">DateofBirth</string>>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+
+    <string name="radiogroup">RadioButton</string>
+
+    <string name="Farmer">Farmer</string>
+
+    <string name="contractor">Contractor</string>
+    <string name="submit">Submit</string>
+
+    <string name="invalid_name">Please enter a valid Name</string>
+    <string name="invalid_address">Address is empty</string>
+    <string name="invalid_password">Please enter a valid password</string>
+    <string name="invalid_confirm_password">Password does not match</string>
+    <string name="invalid_dateofbirth">Your Date of Birth is Invalid</string>
+    <string name="Welcome" />
+
+    <array name="busyfree">
+        <item>Free</item>
+        <item>Busy</item>
+    </array>
+
+</resources>
